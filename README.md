@@ -15,7 +15,7 @@ astronomical data and geolocation.
 ### 🛰 UW Orbital – Ground Station  
  - Writing software for the University of Waterloo's satellite design team
 <br></br>
-<br></br>
+
 Thanks for visiting!
 
 #
