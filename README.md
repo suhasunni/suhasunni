@@ -6,14 +6,14 @@
 Below is some of the work I am most proud of!
 
 ### 🌠 Star-Nav  
-A navigation system that provides navigation based on celestial bodies, leveraging real-time
+ - A navigation system that provides navigation based on celestial bodies, leveraging real-time
 astronomical data and geolocation.
 
 ### 🧠 Unni Street  
-A stock recommender based off discussions on r/wallstreetbets using a custom sentiment analysis model
+ - A stock recommender based off discussions on r/wallstreetbets using a custom sentiment analysis model
 
 ### 🛰 UW Orbital – Ground Station  
-Writing software for the University of Waterloo's satellite design team
+ - Writing software for the University of Waterloo's satellite design team
 <br></br>
 <br></br>
 Thanks for visiting!
