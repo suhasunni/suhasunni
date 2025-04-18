@@ -1,7 +1,6 @@
 # Hello, I'm Suhas! 👋
 
 🎓 Computer Engineering Student at the University of Waterloo  
-🖥️ Passionate about software development and artificial intelligence
 
 Below is some of the work I am most proud of!
 
