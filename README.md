@@ -10,11 +10,7 @@ astronomical data and geolocation.
 
 ### 🧠 Unni Street  
  - A stock recommender based off discussions on r/wallstreetbets using a custom sentiment analysis model
-
-### 🛰 UW Orbital – Ground Station  
- - Writing software for the University of Waterloo's satellite design team
 <br></br>
-
 Thanks for visiting!
 
 #
